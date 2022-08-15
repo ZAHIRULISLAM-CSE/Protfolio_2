@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital@1&display=swap');
+.first{
+    width: 100vw;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+.bg_one{
+    height: 40vw;
+    width: 100vw;
+}
+.text{
+    position: absolute;
+    top: 115px;
+    left: 190px;
+}
+.text_alain{
+    width: 62%;
+    font-family: 'PT Sans', sans-serif;
+
+}
+.abc{
+    font-family: 'Oxygen', sans-serif;
+}
+.xyz{
+    font-family: 'Roboto Slab', serif;
+    color:rgb(255, 192, 229);
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .second{
+    position: absolute;
+    top: 120px;
+    left: 700px;
+  }
+  .img2{
+    height: 25vw;
+    width: 25vw;
+  }
+  .work{
+    width: 100vw;
+    margin-top: -8px;
+    margin-left: -8px;
+
+  }
+  .middle{
+    position: absolute;
+    top: 40vw;
+    height: 40vw;
+    width: 100vw;
+  }
+  .work1{
+    position: absolute;
+    top: 600px;
+    left: 100px;
+    height: 25vw;
+    width: 25vw;
+
+  }
+  .text2{
+    position: absolute;
+    top: 650px;
+    left: 800px;
+  }
+  .bg3{
+    position: absolute;
+    top: 80vw;
+    height: 40vw;
+    width: 100vw;
+  }
+  .try{
+    position: absolute;
+    top: 85vw;
+    left: 45%;
+  }
+  .one{
+    position: absolute;
+    top: 90vw;
+    left:5%;
+    height: 25vw;
+    width: 25vw;
+
+  }
+  .two{
+    position: absolute;
+    top: 90vw;
+    left:35%;
+    height: 25vw;
+    width: 25vw;
+  }
+  .three{
+    position: absolute;
+    top: 90vw;
+    left:65%;
+    height: 25vw;
+    width: 25vw;
+  }
